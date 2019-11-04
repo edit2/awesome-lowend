@@ -4,7 +4,7 @@
 
 1Tbps LET Summerhost
 
-PHP SELECTER OK
+PHP SELEKTER OK
 
 Superior potassium
 
