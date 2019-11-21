@@ -1,5 +1,7 @@
 # awesome-lowend
 
+see also <https://lowend.wiki/Memes>
+
 ![](https://pix.qwertasdfg.xyz/5304b9ae94d176e17f4bbc85/zipmex.png)
 
 1Tbps LET Summerhost
